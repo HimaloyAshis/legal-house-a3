@@ -28,3 +28,8 @@
     background-image: url("./images/slider-3.jpg");
     height: 100vh;
 }
+
+/* accordding color */
+.faq-color{
+    background-color: lavender;
+}
